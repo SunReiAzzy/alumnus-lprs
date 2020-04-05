@@ -2,7 +2,7 @@
 description: Réalisé par HOSTIN Christopher et MONDESIR Malik
 ---
 
-# Alumnus LPRS
+# CONTEXTE LPRS : Alumnus
 
 ## Présentation du projet
 

@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Alumnus LPRS](README.md)
+* [CONTEXTE LPRS : Alumnus](README.md)
 
